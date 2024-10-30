@@ -1,0 +1,5 @@
+#1-es lövés tesztelése
+GT4500,3,0,0,0 # 2db van a tárban
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,ALL
